@@ -8,17 +8,17 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the necessary libraries and Dataset
+2. set learning rate and number of iterations and define Linear Regression function with gradient descent
+3. Normalize the Dataset values using Standard Scaler
+4. use the defined linear regression function to predict the Profit value for given R&D Spend, Administration and Marketing Spend.
 
 ## Program:
-```
+```python
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:  
+Developed by: Bhargava S
+RegisterNumber:  212221040029
 */
 import numpy as np
 import pandas as pd
@@ -54,7 +54,8 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![image](https://github.com/Bhargava-123/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/85554376/7583fb08-4946-4444-8ce8-54dafc742536)
+
 
 
 ## Result:
